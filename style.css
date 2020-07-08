@@ -1,0 +1,27 @@
+.box
+{
+    background-color: #F0FFF0 ;
+}
+.sign-in-button
+{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 1000px;
+    padding: 11px 30px;
+}
+.hero-section
+{
+    height: 700px;
+}
+.ready
+{
+    color: red;
+}
+.box2 img
+{
+  width: 700px;  
+}
+.card img
+{
+    width: 100px;
+}
